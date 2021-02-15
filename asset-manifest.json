@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/nancyh-code/catfriends.git/static/css/main.20e8d4e7.chunk.css",
-    "main.js": "/nancyh-code/catfriends.git/static/js/main.2283e4d4.chunk.js",
-    "main.js.map": "/nancyh-code/catfriends.git/static/js/main.2283e4d4.chunk.js.map",
-    "runtime-main.js": "/nancyh-code/catfriends.git/static/js/runtime-main.37a1ef12.js",
-    "runtime-main.js.map": "/nancyh-code/catfriends.git/static/js/runtime-main.37a1ef12.js.map",
-    "static/css/2.31461e4f.chunk.css": "/nancyh-code/catfriends.git/static/css/2.31461e4f.chunk.css",
-    "static/js/2.79b14c87.chunk.js": "/nancyh-code/catfriends.git/static/js/2.79b14c87.chunk.js",
-    "static/js/2.79b14c87.chunk.js.map": "/nancyh-code/catfriends.git/static/js/2.79b14c87.chunk.js.map",
-    "static/js/3.56771258.chunk.js": "/nancyh-code/catfriends.git/static/js/3.56771258.chunk.js",
-    "static/js/3.56771258.chunk.js.map": "/nancyh-code/catfriends.git/static/js/3.56771258.chunk.js.map",
-    "index.html": "/nancyh-code/catfriends.git/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/nancyh-code/catfriends.git/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.20e8d4e7.chunk.css.map": "/nancyh-code/catfriends.git/static/css/main.20e8d4e7.chunk.css.map",
-    "static/js/2.79b14c87.chunk.js.LICENSE.txt": "/nancyh-code/catfriends.git/static/js/2.79b14c87.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/nancyh-code/catfriends.git/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/nancyh-code/static/css/main.3f66059d.chunk.css",
+    "main.js": "/nancyh-code/static/js/main.2283e4d4.chunk.js",
+    "main.js.map": "/nancyh-code/static/js/main.2283e4d4.chunk.js.map",
+    "runtime-main.js": "/nancyh-code/static/js/runtime-main.7e5760f4.js",
+    "runtime-main.js.map": "/nancyh-code/static/js/runtime-main.7e5760f4.js.map",
+    "static/css/2.31461e4f.chunk.css": "/nancyh-code/static/css/2.31461e4f.chunk.css",
+    "static/js/2.79b14c87.chunk.js": "/nancyh-code/static/js/2.79b14c87.chunk.js",
+    "static/js/2.79b14c87.chunk.js.map": "/nancyh-code/static/js/2.79b14c87.chunk.js.map",
+    "static/js/3.56771258.chunk.js": "/nancyh-code/static/js/3.56771258.chunk.js",
+    "static/js/3.56771258.chunk.js.map": "/nancyh-code/static/js/3.56771258.chunk.js.map",
+    "index.html": "/nancyh-code/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/nancyh-code/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.3f66059d.chunk.css.map": "/nancyh-code/static/css/main.3f66059d.chunk.css.map",
+    "static/js/2.79b14c87.chunk.js.LICENSE.txt": "/nancyh-code/static/js/2.79b14c87.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nancyh-code/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.37a1ef12.js",
+    "static/js/runtime-main.7e5760f4.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.79b14c87.chunk.js",
-    "static/css/main.20e8d4e7.chunk.css",
+    "static/css/main.3f66059d.chunk.css",
     "static/js/main.2283e4d4.chunk.js"
   ]
 }
